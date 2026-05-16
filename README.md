@@ -18,7 +18,7 @@ O bot opera em duas frentes simultâneas:
 
 1. Faça o clone do repositório:
 ```bash
-git clone [https://github.com/seu_usuario/bot_atendimento_corporativo.git](https://github.com/seu_usuario/bot_atendimento_corporativo.git)
+git clone [https://github.com/alvarobandim/bot_atendimento_corporativo.git](https://github.com/alvarobandim/bot_atendimento_corporativo.git)
 ```
 
 2. Instale as dependências necessárias:
