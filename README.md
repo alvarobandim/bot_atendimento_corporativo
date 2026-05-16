@@ -19,7 +19,7 @@ O bot opera em duas frentes simultâneas:
 1. Faça o clone do repositório:
 ```bash
 git clone https://github.com/alvarobandim/bot_atendimento_corporativo.git
-
+```
 2. Instale as dependências necessárias:
 ```bash
 pip install pyTelegramBotAPI
